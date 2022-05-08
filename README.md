@@ -41,7 +41,7 @@ Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State Uni
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=CortezRomeo&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CortezRomeo&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CortezRomeo.CortezRomeo)
