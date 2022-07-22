@@ -1,4 +1,4 @@
-### Hi there 👋, I am [CortezRomeo](https://github.com/CortezRomeo)! 😁
+### Hi there 👋, I am [CortezRomeo](https://github.com/CortezRomeo)!
 
 **Languages and Tools:** 
 
