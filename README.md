@@ -3,7 +3,6 @@
 **Languages and Tools:** 
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=CortezRomeo&count_private=true&show_icons=true&include_all_commits=true)
