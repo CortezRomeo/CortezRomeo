@@ -15,7 +15,7 @@
 
 ## About me ⚔️
 - I was born and raised in Vietnam.
-- I have been in Mississippi, United States for 2 years.
+- I have been in Mississippi, United States for 3 years.
 - I am currently serving as an Army National Guard soldier.
 - Coding in my free time is my favourite thing to do.
 
