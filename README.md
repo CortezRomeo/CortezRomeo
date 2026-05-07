@@ -13,12 +13,6 @@
 ---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CortezRomeo.CortezRomeo)
 
-## About me ⚔️
-- I was born and raised in Vietnam.
-- I have been in Mississippi, United States for 3 years.
-- I am currently serving as an Army National Guard soldier.
-- Coding in my free time is my favourite thing to do.
-
 ## Contact me 🔗
 
 <a href="https://discord.com" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-CortezRomeo-black?style=for-the-badge&logo=discord&logoColor=%2334b7eb&labelColor=%23343aeb" /></a>
